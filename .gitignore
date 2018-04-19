@@ -1,2 +1,5 @@
 .htaccess
 config.php
+cache
+files
+store
